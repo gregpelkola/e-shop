@@ -41,6 +41,8 @@ https://drive.google.com/file/d/1jV84MSRxAEPTAWailG5yBCIx6QWSOou8/view   -Walkth
 
 To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative filepath, add it to your README using the following syntax:
 
+![alt text](img/e-shopins.png)
+
     ```md
     ![alt text](assets/images/screenshot.png)
     ```
