@@ -6,16 +6,19 @@ Provide a short description explaining the what, why, and how of your project. U
 
 - What was your motivation?
 
+To be able to quickly create, update and delete categories, tags and products for an e-shop. 
   
 - Why did you build this project? (Note: the answer is not "Because it was a homework assignment.")
 
+So a user can manage inventory in an e-shop by being able to quickly create, update and delete inventory.
   
 - What problem does it solve?
 
+Making changes to an e-shops inventory quickly.
   
 - What did you learn?
 
-  
+How to use Insomnia to quickly make changes to the database.
 
 ## Table of Contents (Optional)
 
@@ -33,6 +36,8 @@ What are the steps required to install your project? Provide a step-by-step desc
 ## Usage
 
 Provide instructions and examples for use. Include screenshots as needed.
+
+https://drive.google.com/file/d/1jV84MSRxAEPTAWailG5yBCIx6QWSOou8/view   -Walkthrough
 
 To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative filepath, add it to your README using the following syntax:
 
